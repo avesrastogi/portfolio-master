@@ -1,12 +1,12 @@
-# Frontend Developer Portfolio - Diego Téllez
+# Frontend Developer Portfolio - Avni Rastogi
 
-This is my 2023 portfolio. Here you can download my resume and check out all the relevant information about the projects I've done and the technologies I work with.
+This is my 2024 portfolio. Here you can download my resume and check out all the relevant information about the projects I've done and the technologies I work with.
 
 ## Design
 
-![Scremshot](https://imgur.com/oYVnpcK.png)
+![image](https://github.com/user-attachments/assets/0620e889-41a9-40de-b5f0-51a84a7d2bb5)
 
-![Screamshot](https://imgur.com/Th9089F.png)
+![image](https://github.com/user-attachments/assets/842d7618-5832-4cfc-a372-cace1fd7a2e3)
 
 
 
@@ -19,22 +19,17 @@ This is my 2023 portfolio. Here you can download my resume and check out all the
 - #### About
 - #### Projects
 - #### Technologies
+- #### Education
 - #### Contact
   
 
 ## Technologies
 
 - #### React JS
-- #### Tailwind CSS
-
-## Libraries
-
-- #### react-router-dom
-- #### sweetalert2
-- #### axios
-- #### react-icons
-- #### react-scroll
-- #### tsparticles
+- #### JS
+- #### .NET Core
+- #### .NET Framework
+- #### MySQL
 
 
 
