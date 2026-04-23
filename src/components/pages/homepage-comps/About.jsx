@@ -14,8 +14,8 @@ const About = () => {
         </div>
 
         <p className="mb-4 py-6">
-          Hey! I'm Sanskar and My expertise lies in crafting intuitive and
-          responsive user interfaces and backend solutions using HTML, CSS, and JavaScript, with a
+          Hey! I'm Avni and My expertise lies in crafting intuitive and
+          responsive user interfaces and backend solutions using ReactJ.s, Angular.JS, HTML, CSS, and JavaScript, with a
           strong proficiency in modern frameworks like React.js.
           On the back-end, I have solid experience with .NET Framework, .NET Core and databases such as MySQL. This blend of
           front-end and back-end skills allows me to build robust and seamless
